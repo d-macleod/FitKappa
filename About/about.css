@@ -1,0 +1,12 @@
+body {
+
+	background: url(https://images.pexels.com/photos/28080/pexels-photo.jpg?w=940&h=650&auto=compress&cs=tinysrgb);
+	background-size: cover;
+	color:white;
+}
+
+html {
+
+	height:100%
+}
+
